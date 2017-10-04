@@ -1,0 +1,18 @@
+ p {
+  width: 200px;
+  padding: 10px 20px;
+  border: 2px dotted;
+}
+
+section {  
+    border: 10px ;
+}
+
+direction {
+    padding:10px 20px;
+    background-color: gray;
+}
+
+.img{
+    border: 5px gray;
+}
