@@ -1,0 +1,29 @@
+
+
+
+body {
+    text-align: center;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: thin;
+    text-align: center;
+   
+}
+
+div {
+    font-size: 28px;
+
+}
+
+
+a {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
