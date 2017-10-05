@@ -4,6 +4,7 @@
     margin-right: 20px;
     margin-bottom: 20px;
     display: inline-block;
+   
 
 }
 
@@ -11,16 +12,3 @@
     background:red;
 
 }
-
-.dog {
-    width: 150px;
-    height: 150px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    display: block;
-}
-
-.breed{
-    background:red;
-}
-
