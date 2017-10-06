@@ -18,7 +18,15 @@ body {
 
 div {
     font-size: 28px;
+    width: 25%;
+    padding-top: 50px;
+    float:left center;
 
+}
+
+h3 p {
+    width: 75%;
+    float: left;
 }
 
 
